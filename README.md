@@ -5,7 +5,7 @@
 1) Crie os bancos de dados: 00-CREATE DATABASE
 2) Recupere o Banco de Dados LIVRARIA_PROD
 
-## Execute as instruções no banco dados LIVARIA_STG
+## Execute as instruções no banco de dados LIVARIA_STG
 
 - 01-Procedure USP_CARGA_STG_RESERVA
 - 02-VW_DIM_RESERVAS
