@@ -5,7 +5,7 @@
 1) Crie os bancos de dados: 00-
 2) Recupere o Banco de Dados LIVRARIA_PROD
 
-## Execute os seguinte comandos no banco dados LIVARIA_STG
+## Execute os comandos no banco dados LIVARIA_STG
 
 - 01-Procedure USP_CARGA_STG_RESERVA
 - 02-VW_DIM_RESERVAS
@@ -17,7 +17,7 @@
 - 08-Procedure USP_STG_CARGA_INCREMENTAL
 - 09-Procedure USP_LIMPAR_STG
 
-## Execute os seguintes comandos no banco de dados LIVRARIA_DM
+## Execute os comandos no banco de dados LIVRARIA_DM
 
 - 10-Procedure USP_CARGA_DIM_RESERVA
 - 11-Procedure USP_CARGA_DIM_LIVRO
