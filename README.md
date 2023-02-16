@@ -22,5 +22,10 @@
 - 10-Procedure USP_CARGA_DIM_RESERVA
 - 11-Procedure USP_CARGA_DIM_LIVRO
 - 12-Procedure USP_CARGA_FATO_RESERVA
-- 13- Procedure USP_CARGA_FULL
-- 14- Procedure USP_CARGA_INCREMENTAL
+- 13-Procedure USP_CARGA_FULL
+- 14-Procedure USP_CARGA_INCREMENTAL
+
+## Agendamento de Carga Full e Carga Incremental no SQL Server Agent
+
+1) Carga FULL
+-
