@@ -25,7 +25,10 @@
 - 13-Procedure USP_CARGA_FULL
 - 14-Procedure USP_CARGA_INCREMENTAL
 
-## Agendamento de Carga Full e Carga Incremental no SQL Server Agent
+## Agendamento: Carga Full e Carga Incremental no SQL Server Agent
 
-1) Carga FULL
--
+### Carga FULL
+1) Crie o JOB "Processamento DM Carga Full"
+- Etapa 1 : Carregar STG - Comando EXEC USP_CARGA_FULL
+- Etapa 2: Carregar DM - Comando EXEC USP_CARGA_FULL
+- Etapa 3: Carregar STG - Comando EXEC USP_LIMPAR_STG
