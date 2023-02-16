@@ -1,6 +1,6 @@
 <h1>Design e Implementação de Data Mart com T-SQL</h1>
 
-## [ ⚠️ ]  Execute os scrits na seguinte ordem: 
+## [ ⚠️ ]  Execute os comandos na seguinte ordem: 
 
 1) Crie os bancos de dados: 00-
 2) Recupere o Banco de Dados LIVRARIA_PROD
