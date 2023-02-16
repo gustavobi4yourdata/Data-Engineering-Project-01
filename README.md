@@ -2,7 +2,7 @@
 
 ## [ ⚠️ ]  Execute os comandos na seguinte ordem: 
 
-1) Crie os bancos de dados: 00-
+1) Crie os bancos de dados: 00-CREATE DATABASE
 2) Recupere o Banco de Dados LIVRARIA_PROD
 
 ## Execute os comandos no banco dados LIVARIA_STG
